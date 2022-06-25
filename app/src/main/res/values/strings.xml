@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TTBT Cast SP</string>
+    <string name="actor_photo">Imagen del actor</string>
+    <string name="hint_username">Nombre del usuario</string>
+    <string name="helper_required">Campo obligatorio</string>
+    <string name="sp_first_time">First Time</string>
+    <string name="alert_dialog_title">Registro de usuario</string>
+    <string name="dialog_btn_user_register">Registrar</string>
+    <string name="sp_username">Nombre del usuario</string>
+    <string name="Register_success">Registro exitoso</string>
+</resources>
